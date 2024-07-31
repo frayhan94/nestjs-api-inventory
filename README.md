@@ -34,6 +34,7 @@ Buatlah sebuah API untuk sistem manajemen inventaris sederhana menggunakan NestJ
 4. Buat file `.env` di root direktori dan tambahkan konfigurasi berikut:
     ```
     DB_HOST=localhost
+    DATABASE_TYPE=mysql
     DB_PORT=3306
     DB_USERNAME=yourUsername
     DB_PASSWORD=yourPassword
